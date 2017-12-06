@@ -59,3 +59,7 @@ div {
   height: 4vh;
   font-size: 1.2em;
 }
+
+.results {
+  display: list-item;
+}
